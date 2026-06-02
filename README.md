@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [princekumarhere.github.io](princekumarhere.github.io)
-
 - 💬 Ask me about **Monolithic Full Stack**
 
 - 📫 How to reach me **theprincekumarsharma@gmail.com**
