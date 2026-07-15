@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">Co-Founder & CTO @ RCX Light | B.Tech @ DTU. Passionate about Web, App, Game Dev, AI-ML, and Electronics.</h3>
+<h3 align="center">Co-Founder & CTO @ RCX Light | B.Tech @ DTU. Passionate about Full Stack Development, Automation, Distributed Systems, Embedded Systems.</h3>
 
 - 🔭 I’m currently working on **Scaling ERP systems**
-
-- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Monolithic Full Stack**
 
